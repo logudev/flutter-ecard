@@ -1,16 +1,7 @@
 # mi_card_design
 
-A new Flutter project.
+Simple flutter app to study about different layout widgets in flutter and assets, fonts, icons etc
 
-## Getting Started
+# A Virtual Ecard App 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2022-05-14 at 4 50 18 PM](https://user-images.githubusercontent.com/19570212/168423634-9a28471a-f50e-416a-b162-c9f7c27c093a.png)
